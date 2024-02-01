@@ -1,7 +1,7 @@
 # TakeHomeTask3
 In this task we will render content to a page to start building our task app. You will learn how to use the "useState" hook
 
-# This task will be a step by step task since this topic is hard to learn
+## This task will be a step by step task since this topic is hard to learn
 
 ## Step 1
 
