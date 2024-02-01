@@ -44,7 +44,7 @@ In this task we will render content to a page to start building our task app. Yo
     Inside the App.js file, delete everything inside of the parent div
     You should be left with an empty div with the className attribute "App"
 
-## Step 6
+## Step 7
 
     Inside of the 'src' directory create a new folder called "components"
     Inside "components" create a directory called "Task"
@@ -58,7 +58,7 @@ In this task we will render content to a page to start building our task app. Yo
     Style it however you would like in the Task.css file.
     Remember that in react "class" becomes "className"
 
-## Step 7
+## Step 8
 
     Inside the App.js file
     Create a new object with title and paragraph keys. Have the data be strings of whatever you want.
@@ -70,7 +70,7 @@ In this task we will render content to a page to start building our task app. Yo
     <Task taskName={myObject.title} taskDescription={myObject.description}/>
     Save the file and assuming everything went okay you should see your Task object rendered on the page. 
 
-# Step 8
+## Step 9
 
     This is where things will start to be challenging because I am going to let go of your hand so that you can implement some cool stuff.
 
@@ -108,6 +108,6 @@ In this task we will render content to a page to start building our task app. Yo
     Extra:
         If you want to go above and beyond, find out where you should use the useEffect hook to have the page be rendered efficiently
 
-# Step 9
+## Step 10
     
     Commit and push your changes to github
