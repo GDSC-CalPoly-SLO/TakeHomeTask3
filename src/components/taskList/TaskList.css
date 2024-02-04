@@ -1,0 +1,12 @@
+.TaskList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 80vw;
+    height: auto;
+    padding: 1rem;
+    margin: auto;
+    background: lightblue;
+    border-radius: 2rem;
+}
